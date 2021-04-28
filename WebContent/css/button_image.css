@@ -1,0 +1,22 @@
+.containerBtn {
+  position: relative;
+  width: 100%;
+  max-width: 200px;
+}
+
+.containerBtn img {
+  width: 70%;
+  height: auto;
+}
+
+.containerBtn .btn {
+  position: absolute;
+  bottom: 5%;
+  left: 10%;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  background-color: transparent;
+}
